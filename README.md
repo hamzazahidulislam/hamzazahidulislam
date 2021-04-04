@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Zahidul Islam</h1>
-<h3 align="center">A curious and passionate Full-Stack Developer and Javascript & Python Enthusiast!</h3>
+<h3 align="center">A curious and passionate Backend Developer and Javascript & Python Enthusiast!</h3>
 
 - 👨‍💻 My portfolio website [https://hamzazahid.com/](https://hamzazahid.com/)
 - 📝 I write articles on [https://medium.com/@hamzazahidulislam444](https://medium.com/@hamzazahidulislam444)
